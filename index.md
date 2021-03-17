@@ -11,15 +11,20 @@ This is a colloaborative whiteboard application that lets multiple user over the
 2. [SFML](https://www.sfml-dev.org/index.php) for cross-platform development
 3.  [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) for GUI 
 4. [Catch2](https://github.com/catchorg/Catch2) for testing
-* Why don't you use the well known libraries out there such as Boost, Qt ,and wxWidgets? 
-    * The aim of the project was to make everything from scratch as much as we could. Using such high-level library would defeat the purpose of developing the software. One could simply use other tools out there instead of making one. And also, it is fun to face the challenges such as networking, consensus and etc while making such application.
+
+### Why don't you use the well known libraries out there such as Boost, Qt ,and wxWidgets? 
+The aim of the project was to make everything from scratch as much as we could. Using such high-level library would defeat the purpose of developing the software. One could simply use other tools out there instead of making one. And also, it is fun to face the challenges such as networking, consensus and etc while making such application.
+
+
 ## Code Architecture
-* The following docs below are generated through ‘Doxygen’ and gives you an overview of the code base and architecture of the software.  [Architecture Docs](/docs/index.html)
+The following docs below are generated through ‘Doxygen’ and gives you an overview of the code base and architecture of the software.  [Architecture Docs](/docs/index.html)
+
 ## How to run the application?
 * I'm flattered by your enthusiasm of running a student-developed software on your system. The application is tried & tested and hence I can vouch that it is not a fire hazard and won't set your system on fire. 
 * Before you download the source here are some of the requirements that should be installed on your system. 
-    * [C++17](https://isocpp.org/get-started)
-    * [SFML](https://www.sfml-dev.org/tutorials/2.5/#getting-started)
+        * [C++17](https://isocpp.org/get-started)
+        * [SFML](https://www.sfml-dev.org/tutorials/2.5/#getting-started)
+    
 * Once you setup the above resources, hit the command line:
     1. Go to root directory, on command-line type the following command `cmake`
     2. Switch to bin and on command-line type the following command `make`
@@ -27,7 +32,9 @@ This is a colloaborative whiteboard application that lets multiple user over the
     4. Run the server `./Server`. This should start your server that will take care of networking part that makes application concurrent.
     5. Now open the Client side of the application with the command `./App`. This would launch one single instance of client. You can spawn as many you'd like.
     6. If you want to make the application work accross multiple computers over the network, it requires further more tweaking including turning off some settings in the Firewall and changing the IP address in the codebase. Hence I'd recommend contacting me so I could help you with that in a safe manner. I'd be really flattered if someone contacts me so I could show off my application. 
-## Universal Resources
+    
+    
+## Universal Resource
 
 
 * C++11/14/17/20/23
