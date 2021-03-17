@@ -30,9 +30,6 @@ CMakeFiles/App_test.dir/src/Clear.cpp.o
 CMakeFiles/App_test.dir/src/Command.cpp.o
  ../include/Command.hpp
  /Users/jugal/Documents/Root/University/CS 5500 Foundations of Software Engineering/Pumpkin Brush/finalproject-pumpkin-brush/FinalProject/src/Command.cpp
-CMakeFiles/App_test.dir/src/Data.cpp.o
- ../include/Data.hpp
- /Users/jugal/Documents/Root/University/CS 5500 Foundations of Software Engineering/Pumpkin Brush/finalproject-pumpkin-brush/FinalProject/src/Data.cpp
 CMakeFiles/App_test.dir/src/Draw.cpp.o
  ../include/App.hpp
  ../include/BrushFactory.hpp

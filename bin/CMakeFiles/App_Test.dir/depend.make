@@ -30,9 +30,6 @@ CMakeFiles/App_test.dir/src/Clear.cpp.o: ../src/Clear.cpp
 CMakeFiles/App_test.dir/src/Command.cpp.o: ../include/Command.hpp
 CMakeFiles/App_test.dir/src/Command.cpp.o: ../src/Command.cpp
 
-CMakeFiles/App_test.dir/src/Data.cpp.o: ../include/Data.hpp
-CMakeFiles/App_test.dir/src/Data.cpp.o: ../src/Data.cpp
-
 CMakeFiles/App_test.dir/src/Draw.cpp.o: ../include/App.hpp
 CMakeFiles/App_test.dir/src/Draw.cpp.o: ../include/BrushFactory.hpp
 CMakeFiles/App_test.dir/src/Draw.cpp.o: ../include/Command.hpp
