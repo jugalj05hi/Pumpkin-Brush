@@ -1,20 +1,7 @@
 # Pumpkin Brush
 
-## Motivation behind the project
-This was Fall of 2020, the peak of Pandemic era. Amidst the chaos, the classes went remote. I was taking "CS 5500 Foundations of Software Engineering" and like every other student on this blue planet, I was having a hard time collaborating with classmates over online platform. The course was designed in such a way so students could collaborate and come up with a mini-prototype of a real world application while collaborating OFFLINE. The remote enviornment was not helping at all. To my surprise, I was not the only one who was struggling with the same problem.  So here comes the gang, me along with 3 other students decided to make a collaborative whiteboard application for the milestone project. Google Jam was still in development, Microsoft Teams Whiteboard was buggy at it's best. The market for such unique applications was narrow. Hence four like minded avengers Me, Andrew, Japher and Hao set on an adventure to develop a mini-protoype of collaborative whiteboard application where people could brainstorm and colloaborate in real-time.
-
 ## What is the Software about?
-This is a colloaborative whiteboard application that lets multiple user over the network draw and express their ideas on a canvas. TL;DR It's like a whiteboard but online and you can also change the background of  the whiteboard! 
-
-## Software Snapshots
-
-### GUI Toolbar
-The toolbar of Application
-![Image](/media/GUI.png)
-### Application Snapshot of two client running on a server
-![Image](/media/App.png)
-### Application Demo
-[![Pumpkin Brush](https://res.cloudinary.com/marcomontalbano/image/upload/v1616018713/video_to_markdown/images/youtube--yQUJ3Gv8v0w-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/yQUJ3Gv8v0w "Pumpkin Brush")
+This is a colloaborative whiteboard application that lets multiple users collaborate over the network draw and express their ideas on a canvas. All the core components of the Software were developed from scratch that includes Networking, GUI and etc. TL;DR It's like a whiteboard in office but virtual and you can also change the background color of the whiteboard! 
 
 ## Tech Stack
 1. [C++](https://en.cppreference.com/w/cpp/17) 17 for Networking and other core functions
@@ -27,6 +14,15 @@ The toolbar of Application
 
 * The aim of the project was to make everything from scratch as much as we could. Using such high-level library would defeat the purpose of developing the software. One could simply use other tools out there instead of making one. And also, it is fun to face the challenges such as networking, consensus and etc while making such application.
 
+## Software Snapshots
+
+### GUI Toolbar
+The toolbar of Application
+![Image](/media/GUI.png)
+### Application Snapshot of two client running on a server
+![Image](/media/App.png)
+### Application Demo
+[![Pumpkin Brush](https://res.cloudinary.com/marcomontalbano/image/upload/v1616018713/video_to_markdown/images/youtube--yQUJ3Gv8v0w-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/yQUJ3Gv8v0w "Pumpkin Brush")
 
 ## A complete walkthrough of Software along with Codebase and Architecture
 [![Walk Through](https://res.cloudinary.com/marcomontalbano/image/upload/v1616018855/video_to_markdown/images/youtube--yo-HoP5Uitw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=yo-HoP5Uitw "Walk Through")
@@ -48,5 +44,6 @@ The following docs below are generated through ‘Doxygen’ and gives you an ov
     5. Now open the Client side of the application with the command `./App`. This would launch one single instance of client. You can spawn as many you'd like.
     6. If you want to make the application work accross multiple computers over the network, it requires further more tweaking including turning off some settings in the Firewall and changing the IP address in the codebase. Hence I'd recommend contacting me so I could help you with that in a safe manner. I'd be really flattered if someone contacts me so I could show off my application. 
     
-    
 
+## Motivation behind the project
+This was Fall of 2020, the peak of Pandemic era. Amidst the chaos, the classes went remote. I was taking "CS 5500 Foundations of Software Engineering" and like every other student on this blue planet, I was having a hard time collaborating with classmates over online platform. The course was designed in such a way so students could collaborate and come up with a mini-prototype of a real world application while collaborating OFFLINE. The remote enviornment was not helping at all. To my surprise, I was not the only one who was struggling with the same problem.  So here comes the gang, me along with 3 other students decided to make a collaborative whiteboard application for the milestone project. Google Jam was still in development, Microsoft Teams Whiteboard was buggy at it's best. The market for such unique applications was narrow. Hence four like minded avengers Me, Andrew, Japher and Hao set on an adventure to develop a mini-protoype of collaborative whiteboard application where people could brainstorm and colloaborate in real-time.
