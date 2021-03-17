@@ -15,7 +15,7 @@ This is a colloaborative whiteboard application that lets multiple user over the
 5. [CMake](https://cmake.org/) as a Build Tool
 
 >  Why don't you use the well known libraries out there such as Boost, Qt ,and wxWidgets? 
-The aim of the project was to make everything from scratch as much as we could. Using such high-level library would defeat the purpose of developing the software. One could simply use other tools out there instead of making one. And also, it is fun to face the challenges such as networking, consensus and etc while making such application.
+* The aim of the project was to make everything from scratch as much as we could. Using such high-level library would defeat the purpose of developing the software. One could simply use other tools out there instead of making one. And also, it is fun to face the challenges such as networking, consensus and etc while making such application.
 
 ## Software Snapshots
 
