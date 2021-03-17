@@ -17,7 +17,7 @@ The aim of the project was to make everything from scratch as much as we could. 
 
 
 ## Code Architecture
-The following docs below are generated through ‘Doxygen’ and gives you an overview of the code base and architecture of the software.  [Architecture Docs](/docs/index.html)
+The following docs below are generated through ‘Doxygen’ and gives you an overview of the code base and architecture of the software.  [Architecture Docs](/docs/html/index.html)
 
 ## How to run the application?
 * I'm flattered by your enthusiasm of running a student-developed software on your system. The application is tried & tested and hence I can vouch that it is not a fire hazard and won't set your system on fire. 
