@@ -4,7 +4,7 @@
 This is a colloaborative whiteboard application that lets multiple users collaborate over the network draw and express their ideas on a canvas. All the core components of the Software were developed from scratch that includes Networking, GUI and etc. TL;DR It's like a whiteboard in office but virtual and you can also change the background color of the whiteboard! 
 
 ## Tech Stack
-1. [C++](https://en.cppreference.com/w/cpp/17) 17 for Networking and other core functions
+1. [C++ 17](https://en.cppreference.com/w/cpp/17) for Networking and other core functions
 2. [SFML](https://www.sfml-dev.org/index.php) for Cross-Platform Development
 3.  [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) for GUI 
 4. [Catch2](https://github.com/catchorg/Catch2) for Testing
