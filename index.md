@@ -8,7 +8,7 @@ This is a colloaborative whiteboard application that lets multiple user over the
 
 
 ## Tech Stack
-1. C++ 17 for Networking and other core functions
+1. [C++](https://en.cppreference.com/w/cpp/17) 17 for Networking and other core functions
 2. [SFML](https://www.sfml-dev.org/index.php) for Cross-Platform Development
 3.  [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) for GUI 
 4. [Catch2](https://github.com/catchorg/Catch2) for Testing
