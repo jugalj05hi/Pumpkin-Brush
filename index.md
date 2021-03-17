@@ -6,6 +6,15 @@ This was Fall of 2020, the peak of Pandemic era. Amidst the chaos, the classes w
 ## What is the Software about?
 This is a colloaborative whiteboard application that lets multiple user over the network draw and express their ideas on a canvas. TL;DR It's like a whiteboard but online and you can also change the background of  the whiteboard! 
 
+## Software Snapshots
+
+### GUI Toolbar
+The toolbar of Application
+![Image](/media/GUI.png)
+### Application Snapshot of two client running on a server
+![Image](/media/App.png)
+### Application Demo
+[![Pumpkin Brush](https://res.cloudinary.com/marcomontalbano/image/upload/v1616018713/video_to_markdown/images/youtube--yQUJ3Gv8v0w-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/yQUJ3Gv8v0w "Pumpkin Brush")
 
 ## Tech Stack
 1. [C++](https://en.cppreference.com/w/cpp/17) 17 for Networking and other core functions
@@ -18,15 +27,6 @@ This is a colloaborative whiteboard application that lets multiple user over the
 
 * The aim of the project was to make everything from scratch as much as we could. Using such high-level library would defeat the purpose of developing the software. One could simply use other tools out there instead of making one. And also, it is fun to face the challenges such as networking, consensus and etc while making such application.
 
-## Software Snapshots
-
-### GUI Toolbar
-The toolbar of Application
-![Image](/media/GUI.png)
-### Application Snapshot of two client running on a server
-![Image](/media/App.png)
-### Application Demo
-[![Pumpkin Brush](https://res.cloudinary.com/marcomontalbano/image/upload/v1616018713/video_to_markdown/images/youtube--yQUJ3Gv8v0w-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/yQUJ3Gv8v0w "Pumpkin Brush")
 
 ## A complete walkthrough of Software along with Codebase and Architecture
 [![Walk Through](https://res.cloudinary.com/marcomontalbano/image/upload/v1616018855/video_to_markdown/images/youtube--yo-HoP5Uitw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=yo-HoP5Uitw "Walk Through")
