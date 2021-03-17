@@ -13,15 +13,15 @@ This is a colloaborative whiteboard application that lets multiple user over the
 4. [Catch2](https://github.com/catchorg/Catch2) for testing
 
 ### Why don't you use the well known libraries out there such as Boost, Qt ,and wxWidgets? 
-    *The aim of the project was to make everything from scratch as much as we could. Using such high-level library would defeat the purpose of developing the software. One could simply use other tools out there instead of making one. And also, it is fun to face the challenges such as networking, consensus and etc while making such application.
+The aim of the project was to make everything from scratch as much as we could. Using such high-level library would defeat the purpose of developing the software. One could simply use other tools out there instead of making one. And also, it is fun to face the challenges such as networking, consensus and etc while making such application.
 
 
 ## Code Architecture
-    * The following docs below are generated through ‘Doxygen’ and gives you an overview of the code base and architecture of the software.  [Architecture Docs](/docs/index.html)
+The following docs below are generated through ‘Doxygen’ and gives you an overview of the code base and architecture of the software.  [Architecture Docs](/docs/index.html)
 
 ## How to run the application?
-    * I'm flattered by your enthusiasm of running a student-developed software on your system. The application is tried & tested and hence I can vouch that it is not a fire hazard and won't set your system on fire. 
-    * Before you download the source here are some of the requirements that should be installed on your system. 
+* I'm flattered by your enthusiasm of running a student-developed software on your system. The application is tried & tested and hence I can vouch that it is not a fire hazard and won't set your system on fire. 
+* Before you download the source here are some of the requirements that should be installed on your system. 
         * [C++17](https://isocpp.org/get-started)
         * [SFML](https://www.sfml-dev.org/tutorials/2.5/#getting-started)
     
