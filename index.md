@@ -6,6 +6,17 @@ This was Fall of 2020, the peak of Pandemic era. Amidst the chaos, the classes w
 ## What is the Software about?
 This is a colloaborative whiteboard application that lets multiple user over the network draw and express their ideas on a canvas. TL;DR It's like a whiteboard but online and you can also change the background of  the whiteboard! 
 
+
+## Tech Stack
+1. C++ 17 for Networking and other core functions
+2. [SFML](https://www.sfml-dev.org/index.php) for Cross-Platform Development
+3.  [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) for GUI 
+4. [Catch2](https://github.com/catchorg/Catch2) for Testing
+5. [CMake](https://cmake.org/) as a Build Tool
+
+>  Why don't you use the well known libraries out there such as Boost, Qt ,and wxWidgets? 
+The aim of the project was to make everything from scratch as much as we could. Using such high-level library would defeat the purpose of developing the software. One could simply use other tools out there instead of making one. And also, it is fun to face the challenges such as networking, consensus and etc while making such application.
+
 ## Software Snapshots
 
 ### GUI Toolbar
@@ -18,16 +29,6 @@ The toolbar of Application
 
 ## A complete walkthrough of Software along with Codebase and Architecture
 [![Walk Through](https://res.cloudinary.com/marcomontalbano/image/upload/v1616018855/video_to_markdown/images/youtube--yo-HoP5Uitw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=yo-HoP5Uitw "Walk Through")
-## Tech Stack
-1. C++ 17 for Networking and other core functions
-2. [SFML](https://www.sfml-dev.org/index.php) for Cross-Platform Development
-3.  [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) for GUI 
-4. [Catch2](https://github.com/catchorg/Catch2) for Testing
-5. [CMake](https://cmake.org/) as a Build Tool
-
-* Why don't you use the well known libraries out there such as Boost, Qt ,and wxWidgets? 
-The aim of the project was to make everything from scratch as much as we could. Using such high-level library would defeat the purpose of developing the software. One could simply use other tools out there instead of making one. And also, it is fun to face the challenges such as networking, consensus and etc while making such application.
-
 
 ## Code Architecture
 The following docs below are generated through ‘Doxygen’ and gives you an overview of the code base and architecture of the software.  [Architecture Docs](/docs/html/classApp.html)
