@@ -40,3 +40,5 @@ The following docs below are generated through ‘Doxygen’ and gives you an ov
 ### GUI Toolbar
 The toolbar of Application
 ![Image](/media/GUI.png)
+### Application Snapshot of two client running on a server
+![Image](/media/App.png)
