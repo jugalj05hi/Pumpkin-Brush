@@ -39,4 +39,4 @@ The following docs below are generated through ‘Doxygen’ and gives you an ov
 
 ### GUI Toolbar
 The toolbar of Application
-![GUI](/images/GUI.png)
+![Image](/media/GUI.png)
