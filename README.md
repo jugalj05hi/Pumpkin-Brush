@@ -34,7 +34,7 @@ This is a colloaborative whiteboard application that lets multiple user over the
     6. If you want to make the application work accross multiple computers over the network, it requires further more tweaking including turning off some settings in the Firewall and changing the IP address in the codebase. Hence I'd recommend contacting me so I could help you with that in a safe manner. I'd be really flattered if someone contacts me so I could show off my application. 
     
     
-## Universal Resources
+## Universal Resourcess
 
 
 * C++11/14/17/20/23
