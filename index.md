@@ -1,7 +1,7 @@
 # Pumpkin Brush
 
 ## What is the Software about?
-This is a colloaborative whiteboard application that lets multiple users collaborate over the network draw and express their ideas on a canvas. All the core components of the Software were developed from scratch that includes Networking, GUI and etc. TL;DR It's like a whiteboard in office but virtual and you can also change the background color of the whiteboard! 
+This is a colloaborative whiteboard application that lets multiple users collaborate over the network and express their ideas on a canvas. All the core components of the Software were developed from scratch that includes Networking, GUI and etc. TL;DR It's like a whiteboard in office but virtual and you can also change the background color of the whiteboard! 
 
 ## Tech Stack
 1. [C++ 17](https://en.cppreference.com/w/cpp/17) for Networking and other core functions
