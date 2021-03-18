@@ -17,7 +17,6 @@ This is a colloaborative whiteboard application that lets multiple users collabo
 ## Software Snapshots
 
 ### GUI Toolbar
-The toolbar of Application
 ![Image](/media/GUI.png)
 ### Application Snapshot of two client running on a server
 ![Image](/media/App.png)
